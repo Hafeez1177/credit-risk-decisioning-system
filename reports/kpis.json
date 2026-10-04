@@ -1,0 +1,10 @@
+{
+  "observations": 3600,
+  "total_demand_units": 447631,
+  "on_hand_units": 825404,
+  "stockout_events": 221,
+  "stockout_rate_pct": 6.14,
+  "estimated_lost_units": 7867,
+  "avg_lead_time_days": 10.9,
+  "avg_weekly_demand": 14921.0
+}

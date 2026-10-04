@@ -1,0 +1,10 @@
+{
+  "customers": 1200,
+  "avg_pd_pct": 13.84,
+  "low_risk": 87,
+  "medium_risk": 476,
+  "high_risk": 637,
+  "total_exposure_eur": 302510971,
+  "expected_credit_loss_eur": 19461793.43,
+  "high_risk_exposure_eur": 163529295
+}
